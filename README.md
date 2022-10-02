@@ -2,7 +2,11 @@
 
 Resistor to adjust brightness
 
-https://user-images.githubusercontent.com/71810019/193452814-f1e826f3-eb05-428a-b4c2-363f44720058.mp4
+
+
+
+
+https://user-images.githubusercontent.com/71810019/193452925-27b31649-e11b-49a6-ae24-3cff02fcb687.mp4
 
 
 BLINK LED
