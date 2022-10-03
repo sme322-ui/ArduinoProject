@@ -1,27 +1,12 @@
-const byte LED = 22;
-char val;
-
 void setup() {
-  // put your setup code here, to run once:
-  pinMode(LED,OUTPUT);
-
-  Serial.begin(9600);
-  Serial.println("Arduino Ready");
+  // initialize digital pin 13 as an output.
+  pinMode(13, OUTPUT);
 }
 
+// the loop function runs over and over again forever
 void loop() {
-  // put your main code here, to run repeatedly:
-   if(Serial.available()){
-       val = Serial.read();
-       switch(val){
-           case '0':
-             digitalWrite(LED,LOW);
-             Serial.println("LED OFF");
-             break;
-           case '1':
-             digitalWrite(LED,HIGH);
-             Serial.println("LED ON");
-             break;
-        }
-    }
+  digitalWrite(13, HIGH);   // turn the LED on 
+  delay(1000);              // wait for 1 second
+  digitalWrite(13, LOW);    // turn the LED off
+  delay(1000);              // wait for 1 second
 }
