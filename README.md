@@ -20,3 +20,7 @@ https://user-images.githubusercontent.com/71810019/195591445-2c86f426-6e69-4c01-
 
 https://user-images.githubusercontent.com/71810019/197208670-1f651c82-41c6-43d1-9826-486f322b6055.mp4
 
+紅外線遙控器.紅外線接收與發射
+
+https://user-images.githubusercontent.com/71810019/205480701-71f6b521-de67-4f39-b23e-ce0a229f192c.mp4
+
