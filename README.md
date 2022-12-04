@@ -1,10 +1,4 @@
 # ArduinoProject
-
-Resistor to adjust brightness
-
-https://user-images.githubusercontent.com/71810019/193452925-27b31649-e11b-49a6-ae24-3cff02fcb687.mp4
-
-
 BLINK LED
 
 https://user-images.githubusercontent.com/71810019/193452858-c62864ea-2732-4a58-a8c9-1cc805865bdb.mp4
@@ -19,4 +13,8 @@ https://user-images.githubusercontent.com/71810019/195591445-2c86f426-6e69-4c01-
 溫度感測
 
 https://user-images.githubusercontent.com/71810019/197208670-1f651c82-41c6-43d1-9826-486f322b6055.mp4
+
+
+紅外線遙控器.紅外線接收與發射
+https://user-images.githubusercontent.com/71810019/205480774-77bcc011-e521-493b-96a1-13722402928d.mp4
 
