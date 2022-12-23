@@ -20,7 +20,7 @@ if (btSerial.available()){  //如果藍牙有傳資料過來
     Serial.print(millis());
     Serial.print(", ");
     Serial.println(temp);
-    delay(10000);
+    delay(100);
     Serial.println(i);
     if(i == 1){    //如果是1，亮燈
       Serial.println("Led OFF");
