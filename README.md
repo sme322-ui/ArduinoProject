@@ -20,3 +20,6 @@ https://user-images.githubusercontent.com/71810019/195591445-2c86f426-6e69-4c01-
 
 https://user-images.githubusercontent.com/71810019/197208670-1f651c82-41c6-43d1-9826-486f322b6055.mp4
 
+溫度監控
+
+![382472424_6361953337246444_7285542116355944136_n jepg](https://github.com/sme322-ui/ArduinoProject/assets/71810019/7df9b75a-16c8-40d2-82e5-0febd5cb6fc2)
